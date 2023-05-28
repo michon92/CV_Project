@@ -1,6 +1,6 @@
 body {
     font-family: 'Montserrat', sans-serif;
-    background: fuchsia ;
+    background: #faf5f5;
 }
 
 .wrapper {display: flex;
@@ -8,8 +8,21 @@ body {
     justify-content: center;
     width: 1200px;
     margin: 0 auto;
-    background: blue;
-    box-shadow: ;
+    background: #ffffff;
+    box-shadow: 6px 6px 20px gray;
+
+}
+
+.main-description {
+    background: red;
+    margin: 20px 40px 20px 40px;
+    padding: 40px 10px 5px 3px;
+}
+
+.block2 {
+    background: rgb(0, 255, 64);
+    margin: 10px;
+    padding: 50px;
 }
 
 li {
