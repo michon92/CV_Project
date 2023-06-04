@@ -63,3 +63,85 @@ aside {
   margin-top: 44px;
   margin-left: 40px;
 }
+
+main {
+  padding: 102px 88px 102px 88px;
+}
+
+.main_description {
+  width: 400px;
+}
+
+.job_title {
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 17px;
+}
+
+h1 {
+  font-size: 45px;
+  font-weight: 700;
+  line-height: 55px;
+}
+
+.description {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  color: #595959;
+  margin-bottom: 40px;
+}
+
+.projects {
+  width: 485px;
+  margin-bottom: 51px;
+}
+
+.list_primary {
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 24px;
+  padding-left: 0px;
+  list-style-position: inside;
+}
+
+.list_primary_item {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  color: #595959;
+  text-decoration: none;
+}
+
+.header_primary {
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 27px;
+  margin-bottom: 12px;
+}
+
+.job_name {
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 20px;
+}
+
+.highlight {
+  color: #fb6d3a;
+}
+
+.job_date {
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 15px;
+  color: #a8a8a8;
+}
+
+.job_list {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  color: #595959;
+  padding-left: 0px;
+  list-style-position: inside;
+}
